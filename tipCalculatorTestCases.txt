@@ -1,0 +1,18 @@
+Test Cases for Tip Calculator :- 
+
+1. Bill Amount = $1000.00
+   Tip % = 5
+   No. of People = 10
+Output:- 
+   Tip (per person) = $5.00
+   Total (per person) = $105.00
+
+2. Bill Amount = $500.00
+   Tip % = 5
+   No. of People = 1
+Output:- 
+   Tip (per person) = $25.00
+   Total (per person) = $525.00
+
+Note: If user inserted negative number or string in the input box, then it 
+alerts user and default value will insert in the input box.

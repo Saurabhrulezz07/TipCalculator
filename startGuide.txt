@@ -1,0 +1,9 @@
+              Start Guide to Run Tip Calculator
+
+1. Place tipCalculator.html, tipCalculator.css, tipCalculator.js files
+   together in a folder.
+2. Now open tipCalculator.html in your browser.
+
+Note: This Tip Calculator is realtime (means as you write in input box it gives you
+      ans. It has not any Calculate button).
+      This program has also some default values so that program runs fine.
